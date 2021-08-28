@@ -1,3 +1,4 @@
-# Movie App 2021
+# Food
 
 React JS Fundamentals Course (2021)
+jsx, propType example
